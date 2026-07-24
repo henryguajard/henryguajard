@@ -88,10 +88,10 @@ Ecommerce para una tienda de decoración desarrollado con Laravel, Bootstrap y M
 **https://hg-developer.netlify.app**
 
 💼 **LinkedIn**
-*(Agrega aquí el enlace a tu perfil)*
+*www.linkedin.com/in/henry-guajardo-28271925b*
 
 📧 **Email**
-*(Agrega aquí tu correo de contacto)*
+*henroki1989@gmail.com*
 
 ---
 
