@@ -2,13 +2,7 @@
 
 # 👋 ¡Hola! Soy Henry Guajardo
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
-
-### 💻 Full Stack Web Developer
-
-**PHP • Laravel • Java • Spring Boot • MySQL • AWS**
-
-🚀 Apasionado por el desarrollo web, el backend y el aprendizaje continuo.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;PHP+%7C+Laravel+%7C+Java+%7C+Spring+Boot;Apasionado+por+el+desarrollo+web+y+el+aprendizaje+continuo" alt="Typing SVG" />
 
 </div>
 
@@ -16,15 +10,17 @@
 
 # 👨‍💻 Sobre mí
 
-Soy desarrollador web enfocado en crear aplicaciones modernas, escalables y fáciles de mantener.
+Soy un **Desarrollador Web** apasionado por crear aplicaciones modernas, escalables y orientadas a ofrecer una buena experiencia de usuario.
 
-Actualmente estudio **Ingeniería en Informática** y trabajo como **Analista de Fallas Virtuales Webpay**, donde participo en el análisis y resolución de incidencias sobre plataformas de pago, fortaleciendo mis habilidades de diagnóstico, soporte y trabajo en equipo.
+Actualmente estudio **Ingeniería en Informática** y trabajo como **Analista de Fallas Virtuales Webpay**, fortaleciendo mis habilidades en análisis, resolución de problemas y soporte de aplicaciones críticas.
 
-Siempre estoy aprendiendo nuevas tecnologías y desarrollando proyectos que me permitan crecer profesionalmente.
+🚀 Mi objetivo es seguir creciendo como desarrollador Full Stack y especializarme en tecnologías Backend y Cloud.
 
 ---
 
 # 🚀 Tecnologías
+
+<div align="center">
 
 ### 💻 Backend
 
@@ -35,11 +31,11 @@ Siempre estoy aprendiendo nuevas tecnologías y desarrollando proyectos que me p
 
 ### 🎨 Frontend
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### 🗄️ Base de Datos
 
@@ -55,6 +51,8 @@ Siempre estoy aprendiendo nuevas tecnologías y desarrollando proyectos que me p
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 ---
 
@@ -73,10 +71,10 @@ Siempre estoy aprendiendo nuevas tecnologías y desarrollando proyectos que me p
 
 | Proyecto | Descripción |
 |----------|-------------|
-| 🛒 **Ecommerce Laravel + Webpay** | Tienda online con carrito de compras, autenticación y pagos mediante Transbank Webpay Plus. |
-| 🍇 **Entre Uvas y Café** | Aplicación web enfocada en la gestión y venta de productos con una interfaz moderna. |
+| 🛒 **Ecommerce Laravel + Webpay** | Tienda online desarrollada con Laravel, carrito de compras e integración con Transbank Webpay Plus (Sandbox). |
+| 🍇 **Entre Uvas y Café** | Aplicación web enfocada en la gestión y venta de productos con una interfaz moderna y responsive. |
 | 🏠 **DecoHouse** | Ecommerce desarrollado con Laravel, Bootstrap y MySQL. |
-| ☕ **Cafetería Monona's** | Landing Page responsive enfocada en experiencia de usuario. |
+| ☕ **Cafetería Monona's** | Landing Page moderna y responsive enfocada en la experiencia del usuario. |
 
 ---
 
@@ -98,33 +96,43 @@ Siempre estoy aprendiendo nuevas tecnologías y desarrollando proyectos que me p
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=henryguajard&show_icons=true&theme=github_dark&rank_icon=github)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=henryguajard&show_icons=true&theme=github_dark&hide_border=true" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henryguajard&layout=compact&theme=github_dark)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryguajard&layout=compact&theme=github_dark&hide_border=true" />
 
-</div>
-
----
-
-# 🤝 Conecta conmigo
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-0A192F?style=for-the-badge)](https://hg-developer.netlify.app)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henry-guajardo-28271925b)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henroki1989@gmail.com)
+<img src="https://streak-stats.demolab.com?user=henryguajard&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
 ---
 
+# 🌐 Conecta conmigo
+
 <div align="center">
 
-## 💡 *"Siempre aprendiendo, siempre construyendo soluciones mediante código."*
+<a href="https://hg-developer.netlify.app">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-0A192F?style=for-the-badge" />
+</a>
 
-⭐ Gracias por visitar mi perfil ⭐
+<a href="https://www.linkedin.com/in/henry-guajardo-28271925b">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:henroki1989@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💡 Filosofía
+
+> **"Siempre aprendiendo, siempre construyendo soluciones mediante código."** 🚀
+
+⭐ **Gracias por visitar mi perfil** ⭐
 
 </div>
 
