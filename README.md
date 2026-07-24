@@ -1,4 +1,4 @@
-<div align="center">
+<div align="">
 
 # 👋 ¡Hola! Soy Henry Guajardo
 
@@ -20,7 +20,7 @@ Actualmente estudio **Ingeniería en Informática** y trabajo como **Analista de
 
 # 🚀 Tecnologías
 
-<div align="center">
+<div align="">
 
 ### 💻 Backend
 
