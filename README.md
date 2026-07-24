@@ -98,9 +98,9 @@ Siempre estoy aprendiendo nuevas tecnologías y desarrollando proyectos que me p
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=henryguajard&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=henryguajard&show_icons=true&theme=github_dark&rank_icon=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henryguajard&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henryguajard&layout=compact&theme=github_dark)
 
 </div>
 
