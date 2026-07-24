@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola! Soy Henry Guajardo
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;PHP+%7C+Laravel+%7C+Java+%7C+Spring+Boot;Apasionado+por+el+desarrollo+web+y+el+aprendizaje+continuo" alt="Typing SVG" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 
 </div>
 
