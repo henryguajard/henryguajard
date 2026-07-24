@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Henry Guajardo
 
 <p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 </p>
 
 ## 💻 Desarrollador Web | PHP • Laravel • Java • Spring Boot
