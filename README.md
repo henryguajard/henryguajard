@@ -108,7 +108,7 @@ Actualmente estudio **Ingeniería en Informática** y trabajo como **Analista de
 
 # 🌐 Conecta conmigo
 
-<div align="center">
+<div align="">
 
 <a href="https://hg-developer.netlify.app">
 <img src="https://img.shields.io/badge/🌐%20Portfolio-0A192F?style=for-the-badge" />
