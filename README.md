@@ -1,5 +1,9 @@
 # 👋 ¡Hola! Soy Henry Guajardo
 
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450">
+</p>
+
 ## 💻 Desarrollador Web | PHP • Laravel • Java • Spring Boot
 
 Soy un desarrollador apasionado por la creación de aplicaciones web modernas y escalables. Actualmente estudio **Ingeniería en Informática** y trabajo como **Analista de Fallas Virtuales Webpay**, donde desarrollo habilidades en análisis, resolución de problemas y soporte de aplicaciones críticas.
@@ -72,6 +76,10 @@ Ecommerce para una tienda de decoración desarrollado con Laravel, Bootstrap y M
 
 🏅 Excel Completo de Cero a Avanzado
 
+🏅 Oracle Academy – Database Foundations
+
+🏅 Oracle Academy – Java Foundations
+
 ---
 
 ## 📊 Estadísticas de GitHub
@@ -84,14 +92,11 @@ Ecommerce para una tienda de decoración desarrollado con Laravel, Bootstrap y M
 
 ## 🌐 Conecta conmigo
 
-🌍 **Portafolio**
-**https://hg-developer.netlify.app**
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hg-developer.netlify.app)
 
-💼 **LinkedIn**
-*www.linkedin.com/in/henry-guajardo-28271925b*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/henry-guajardo-28271925b)
 
-📧 **Email**
-*henroki1989@gmail.com*
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henroki1989@gmail.com)
 
 ---
 
